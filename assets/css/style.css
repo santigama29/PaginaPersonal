@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),url("/JavaProgramming.png");
+  background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),url("../img/JavaProgramming.png");
   background-size: cover;
   left: 0;
   right: 0;
